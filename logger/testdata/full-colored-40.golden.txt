@@ -1,0 +1,3 @@
+[38;5;197m2000-01-01 00:00:00+00:00 [ERROR   ] This is error level [0m
+[38;5;196m2000-01-01 00:00:00+00:00 [CRITICAL] This is critical level [0m
+2000-01-01 00:00:00+00:00 [UNKNOWN ] This is internal log handler and should not be called, but is here for unit testing only. 

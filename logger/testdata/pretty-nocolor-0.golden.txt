@@ -1,0 +1,23 @@
+[TRACE   ] This is trace level 
+[TRACE   ] This is trace level 
+[TRACE   ] This is trace level 
+[DEBUG   ] This is debug level 
+[DEBUG   ] This is debug level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is success level 
+[NOTICE  ] This is notice level 
+[WARNING ] This is warning level 
+[WARNING ] This is warn level 
+[ERROR   ] This is error level 
+[CRITICAL] This is critical level 
+[UNKNOWN ] This is internal log handler and should not be called, but is here for unit testing only. 
+[TRACE   ] Multi line: LINE 1 (no-prefix) 
+[TRACE   ] Multi line: LINE 2 (no-prefix) 
+[TRACE   ] (printf) Multi line: LINE 1 (with-prefix) 
+[TRACE   ] (printf) Multi line: LINE 2 (with-prefix) 

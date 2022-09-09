@@ -1,0 +1,2 @@
+[CRITICAL] This is critical level 
+[UNKNOWN ] This is internal log handler and should not be called, but is here for unit testing only. 

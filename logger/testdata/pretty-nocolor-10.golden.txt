@@ -1,0 +1,16 @@
+[DEBUG   ] This is debug level 
+[DEBUG   ] This is debug level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is info level 
+[INFO    ] This is success level 
+[NOTICE  ] This is notice level 
+[WARNING ] This is warning level 
+[WARNING ] This is warn level 
+[ERROR   ] This is error level 
+[CRITICAL] This is critical level 
+[UNKNOWN ] This is internal log handler and should not be called, but is here for unit testing only. 

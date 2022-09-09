@@ -1,0 +1,23 @@
+2000-01-01 00:00:00+00:00 [TRACE   ] This is trace level 
+2000-01-01 00:00:00+00:00 [TRACE   ] This is trace level 
+2000-01-01 00:00:00+00:00 [TRACE   ] This is trace level 
+2000-01-01 00:00:00+00:00 [DEBUG   ] This is debug level 
+2000-01-01 00:00:00+00:00 [DEBUG   ] This is debug level 
+2000-01-01 00:00:00+00:00 [INFO    ] This is info level 
+2000-01-01 00:00:00+00:00 [INFO    ] This is info level 
+2000-01-01 00:00:00+00:00 [INFO    ] This is info level 
+2000-01-01 00:00:00+00:00 [INFO    ] This is info level 
+2000-01-01 00:00:00+00:00 [INFO    ] This is info level 
+2000-01-01 00:00:00+00:00 [INFO    ] This is info level 
+2000-01-01 00:00:00+00:00 [INFO    ] This is info level 
+2000-01-01 00:00:00+00:00 [INFO    ] This is success level 
+2000-01-01 00:00:00+00:00 [NOTICE  ] This is notice level 
+2000-01-01 00:00:00+00:00 [WARNING ] This is warning level 
+2000-01-01 00:00:00+00:00 [WARNING ] This is warn level 
+2000-01-01 00:00:00+00:00 [ERROR   ] This is error level 
+2000-01-01 00:00:00+00:00 [CRITICAL] This is critical level 
+2000-01-01 00:00:00+00:00 [UNKNOWN ] This is internal log handler and should not be called, but is here for unit testing only. 
+2000-01-01 00:00:00+00:00 [TRACE   ] Multi line: LINE 1 (no-prefix) 
+2000-01-01 00:00:00+00:00 [TRACE   ] Multi line: LINE 2 (no-prefix) 
+2000-01-01 00:00:00+00:00 [TRACE   ] (printf) Multi line: LINE 1 (with-prefix) 
+2000-01-01 00:00:00+00:00 [TRACE   ] (printf) Multi line: LINE 2 (with-prefix) 

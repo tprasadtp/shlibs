@@ -1,0 +1,2 @@
+[38;5;196m• This is critical level [0m
+• This is internal log handler and should not be called, but is here for unit testing only. 

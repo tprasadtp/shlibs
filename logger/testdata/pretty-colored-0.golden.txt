@@ -1,0 +1,23 @@
+[38;5;246m• This is trace level [0m
+[38;5;246m• This is trace level [0m
+[38;5;246m• This is trace level [0m
+[38;5;250m• This is debug level [0m
+[38;5;250m• This is debug level [0m
+• This is info level 
+• This is info level 
+• This is info level 
+• This is info level 
+• This is info level 
+• This is info level 
+• This is info level 
+[38;5;83m• This is success level [0m
+[38;5;81m• This is notice level [0m
+[38;5;214m• This is warning level [0m
+[38;5;214m• This is warn level [0m
+[38;5;197m• This is error level [0m
+[38;5;196m• This is critical level [0m
+• This is internal log handler and should not be called, but is here for unit testing only. 
+[38;5;246m• Multi line: LINE 1 (no-prefix) [0m
+[38;5;246m• Multi line: LINE 2 (no-prefix) [0m
+[38;5;246m• (printf) Multi line: LINE 1 (with-prefix) [0m
+[38;5;246m• (printf) Multi line: LINE 2 (with-prefix) [0m
